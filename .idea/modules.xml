@@ -20,6 +20,8 @@
       <module fileurl="file://$PROJECT_DIR$/016ThreeSumClosest/016ThreeSumClosest.iml" filepath="$PROJECT_DIR$/016ThreeSumClosest/016ThreeSumClosest.iml" />
       <module fileurl="file://$PROJECT_DIR$/017LetterCombinations/017LetterCombinations.iml" filepath="$PROJECT_DIR$/017LetterCombinations/017LetterCombinations.iml" />
       <module fileurl="file://$PROJECT_DIR$/018FourSum/018FourSum.iml" filepath="$PROJECT_DIR$/018FourSum/018FourSum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/019RemoveNthFromEnd/019RemoveNthFromEnd.iml" filepath="$PROJECT_DIR$/019RemoveNthFromEnd/019RemoveNthFromEnd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/020IsValid/020IsValid.iml" filepath="$PROJECT_DIR$/020IsValid/020IsValid.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/LeetCode.iml" filepath="$PROJECT_DIR$/.idea/LeetCode.iml" />
       <module fileurl="file://$PROJECT_DIR$/public/public.iml" filepath="$PROJECT_DIR$/public/public.iml" />
     </modules>
