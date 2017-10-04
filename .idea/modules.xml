@@ -2,29 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/001TwoSum/001TwoSum.iml" filepath="$PROJECT_DIR$/001TwoSum/001TwoSum.iml" />
-      <module fileurl="file://$PROJECT_DIR$/002AddTwoNum/002AddTwoNum.iml" filepath="$PROJECT_DIR$/002AddTwoNum/002AddTwoNum.iml" />
-      <module fileurl="file://$PROJECT_DIR$/003LengthOfLongestSubstring/003LengthOfLongestSubstring.iml" filepath="$PROJECT_DIR$/003LengthOfLongestSubstring/003LengthOfLongestSubstring.iml" />
-      <module fileurl="file://$PROJECT_DIR$/004FindMedianSortedArrays/004FindMedianSortedArrays.iml" filepath="$PROJECT_DIR$/004FindMedianSortedArrays/004FindMedianSortedArrays.iml" />
-      <module fileurl="file://$PROJECT_DIR$/005LongestPalindrome/005LongestPalindrome.iml" filepath="$PROJECT_DIR$/005LongestPalindrome/005LongestPalindrome.iml" />
-      <module fileurl="file://$PROJECT_DIR$/006Convert/006Convert.iml" filepath="$PROJECT_DIR$/006Convert/006Convert.iml" />
-      <module fileurl="file://$PROJECT_DIR$/007Reverse/007Reverse.iml" filepath="$PROJECT_DIR$/007Reverse/007Reverse.iml" />
-      <module fileurl="file://$PROJECT_DIR$/008MyAtoi/008MyAtoi.iml" filepath="$PROJECT_DIR$/008MyAtoi/008MyAtoi.iml" />
-      <module fileurl="file://$PROJECT_DIR$/009IsPalindrome/009IsPalindrome.iml" filepath="$PROJECT_DIR$/009IsPalindrome/009IsPalindrome.iml" />
-      <module fileurl="file://$PROJECT_DIR$/010IsMatch/010IsMatch.iml" filepath="$PROJECT_DIR$/010IsMatch/010IsMatch.iml" />
-      <module fileurl="file://$PROJECT_DIR$/011MaxArea/011MaxArea.iml" filepath="$PROJECT_DIR$/011MaxArea/011MaxArea.iml" />
-      <module fileurl="file://$PROJECT_DIR$/012IntToRoman/012IntToRoman.iml" filepath="$PROJECT_DIR$/012IntToRoman/012IntToRoman.iml" />
-      <module fileurl="file://$PROJECT_DIR$/013RomanToInt/013RomanToInt.iml" filepath="$PROJECT_DIR$/013RomanToInt/013RomanToInt.iml" />
-      <module fileurl="file://$PROJECT_DIR$/014LongestCommonPrefix/014LongestCommonPrefix.iml" filepath="$PROJECT_DIR$/014LongestCommonPrefix/014LongestCommonPrefix.iml" />
-      <module fileurl="file://$PROJECT_DIR$/015ThreeSum/015ThreeSum.iml" filepath="$PROJECT_DIR$/015ThreeSum/015ThreeSum.iml" />
-      <module fileurl="file://$PROJECT_DIR$/016ThreeSumClosest/016ThreeSumClosest.iml" filepath="$PROJECT_DIR$/016ThreeSumClosest/016ThreeSumClosest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/017LetterCombinations/017LetterCombinations.iml" filepath="$PROJECT_DIR$/017LetterCombinations/017LetterCombinations.iml" />
-      <module fileurl="file://$PROJECT_DIR$/018FourSum/018FourSum.iml" filepath="$PROJECT_DIR$/018FourSum/018FourSum.iml" />
-      <module fileurl="file://$PROJECT_DIR$/019RemoveNthFromEnd/019RemoveNthFromEnd.iml" filepath="$PROJECT_DIR$/019RemoveNthFromEnd/019RemoveNthFromEnd.iml" />
-      <module fileurl="file://$PROJECT_DIR$/020IsValid/020IsValid.iml" filepath="$PROJECT_DIR$/020IsValid/020IsValid.iml" />
-      <module fileurl="file://$PROJECT_DIR$/021MergeTwoLists/021MergeTwoLists.iml" filepath="$PROJECT_DIR$/021MergeTwoLists/021MergeTwoLists.iml" />
-      <module fileurl="file://$PROJECT_DIR$/022GenerateParenthesis/022GenerateParenthesis.iml" filepath="$PROJECT_DIR$/022GenerateParenthesis/022GenerateParenthesis.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/LeetCode.iml" filepath="$PROJECT_DIR$/.idea/LeetCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeetCode_001_025/LeetCode_001_025.iml" filepath="$PROJECT_DIR$/LeetCode_001_025/LeetCode_001_025.iml" />
       <module fileurl="file://$PROJECT_DIR$/public/public.iml" filepath="$PROJECT_DIR$/public/public.iml" />
     </modules>
   </component>
