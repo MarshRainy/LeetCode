@@ -1,5 +1,3 @@
-import pri.MarshR.leetcode.p.ListNode;
-
 public class Test00200 {
 	public static void main(String[] args) {
 		Solution00200 solution00200 = new Solution00200();

@@ -1,5 +1,3 @@
-import pri.MarshR.leetcode.p.ListNode;
-
 public class Solution00200 {
 	public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
 

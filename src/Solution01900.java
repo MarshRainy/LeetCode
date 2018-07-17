@@ -1,5 +1,3 @@
-import pri.MarshR.leetcode.p.ListNode;
-
 import java.util.*;
 
 public class Solution01900 {

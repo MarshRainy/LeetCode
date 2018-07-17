@@ -1,8 +1,5 @@
-import pri.MarshR.leetcode.p.ListNode;
-
 /**
- * CreateDate: 2017/01/01
- * Author: MarshR
+ * CreateDate: 2017/01/01 Author: MarshR
  */
 public class Test02100 {
 	public static void main(String[] args) {
